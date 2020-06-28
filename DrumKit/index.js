@@ -1,13 +1,3 @@
-/* Alternatively for the loop control, I could have done
-  for (var i=0, i<documen.querySelectorAll(".drum").length)
-*/
-
- /* My solution:
-for (var i=0; i<7; i++) {
-  document.querySelectorAll("button")[i].addEventListener("click", handleClick);
-} */
-
-
 // Detecting mouse click
 for (var i=0; i<document.querySelectorAll(".drum").length; i++) {
 
