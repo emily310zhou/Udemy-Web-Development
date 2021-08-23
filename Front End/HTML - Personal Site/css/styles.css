@@ -1,0 +1,26 @@
+body {
+  background-color: #f8f3eb;
+  font-family: adobe-garamond-pro,HelveticaNeue-Light,"Helvetica Neue Light",
+  "Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+  font-weight: 300;
+}
+h1 {
+  color: #bc658d;
+  font-family: brandon-grotesque,HelveticaNeue-Light,
+  "Helvetica Neue Light","Helvetica Neue",
+  Helvetica,Arial,"Lucida Grande",sans-serif;
+  font-weight: 500;
+}
+h3 {
+  color: #61c0bf;
+  font-family: brandon-grotesque,HelveticaNeue-Light,
+  "Helvetica Neue Light","Helvetica Neue",
+  Helvetica,Arial,"Lucida Grande",sans-serif;
+  font-weight: 500;
+}
+hr {
+  border-color: #ffb6b9;
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 5%;
+}
